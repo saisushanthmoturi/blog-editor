@@ -282,17 +282,6 @@ curl -X POST http://localhost:5000/api/blogs/publish \
 - JWT authentication (optional)
 - Security headers with Helmet.js
 
-## 🚀 Deployment
-
-### Backend Deployment
-1. Set environment variables for production
-2. Update CORS origins for your frontend domain
-3. Deploy to services like Heroku, Railway, or DigitalOcean
-
-### Frontend Deployment
-1. Update API base URL in constants
-2. Build the application: `npm run build`
-3. Deploy to Vercel, Netlify, or any static hosting service
 
 ## 🤝 Contributing
 
